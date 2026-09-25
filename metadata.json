@@ -1,0 +1,6 @@
+{
+  "name": "Pertamina TankSight AIoT - ATG & Loss Control Platform",
+  "description": "Industrial Automatic Tank Gauging (ATG) and AIoT monitoring platform for PT Pertamina Patra Niaga to monitor storage tanks, mitigate fuel losses, detect leaks, temperature evaporation, and fraud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
